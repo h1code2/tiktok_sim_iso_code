@@ -1,0 +1,2 @@
+# tiktok_sim_iso_code
+TikTok国内穿透 简单hook修改sim_iso_code实现国内使用tiktok
