@@ -1,0 +1,2 @@
+rootProject.name = "TikTok国内穿透"
+include ':app'
